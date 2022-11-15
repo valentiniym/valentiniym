@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Valentin</h1>
 <h3 align="center">A passionate full stack developer from France.</h3>
 
-- 🔭 I’m currently working at **ENGIE**
+- 🔭 I’m currently working at **EQUANS**
 
 - 🌱 I’m currently learning **courses**
 
